@@ -2220,6 +2220,9 @@
   (gr_text "v1.5" (at 160.909 95.885) (layer "F.SilkS") (tstamp 3b0f90e8-57d9-42d7-85e4-9d338a5720fc)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "V1.5\n\nadd diode D2, LED, 78M05, capacitors, holes for wires" (at 202.946 92.583) (layer "Edge.Cuts") (tstamp 56de11c8-54d5-46a3-86f3-42d9503bfc91)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (segment (start 166.378035 79.63408) (end 166.378035 82.050035) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0953e4bb-efa1-46bc-9df6-5196a59009c0))
   (segment (start 166.378035 82.050035) (end 167.132 82.804) (width 0.25) (layer "F.Cu") (net 1) (tstamp 4f5beba1-6dd4-4231-8431-8230642e6130))
